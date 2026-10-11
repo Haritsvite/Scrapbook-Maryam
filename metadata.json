@@ -1,0 +1,6 @@
+{
+  "name": "Shiva Augusta Scrapbook | Birthday Celebration ❤️",
+  "description": "A heartfelt scrapbook celebration of Shiva’s life and birthday — filled with love, memories, interactive drag-and-drop polaroids, notes, and music.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
